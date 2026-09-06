@@ -1,0 +1,17 @@
+# Copy the EXACT scope from the program's YesWeHack "Scopes" tab.
+# Do not guess. Anything not listed here is out of scope by default.
+in_scope:
+  wildcards:        # matches the apex and any subdomain
+    - "*.example.com"
+  hosts:            # exact hostnames only
+    - "api.example.com"
+  urls:             # url prefixes (for path-scoped programs)
+    - "https://app.example.com/portal"
+  mobile:           # mobile app package ids / store links, if in scope
+    - "com.example.app (Android)"
+    - "id000000000 (iOS)"
+out_of_scope:
+  hosts:
+    - "blog.example.com"
+  wildcards:
+    - "*.thirdparty.example.com"

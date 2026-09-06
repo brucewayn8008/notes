@@ -1,0 +1,4 @@
+targets/*/recon/
+reports/*.pdf
+*.log
+__pycache__/

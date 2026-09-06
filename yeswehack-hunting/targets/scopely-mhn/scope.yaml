@@ -1,0 +1,12 @@
+# Scopely Explore — Monster Hunter Now — PRIVATE, mobile-focused. 4 scopes.
+# >>> FILL THIS IN from the program's Scopes tab. <<<
+in_scope:
+  wildcards: []
+  hosts: []
+  urls: []
+  mobile:
+    - "<Android package id from program page>"
+    - "<iOS app id from program page>"
+out_of_scope:
+  hosts: []
+  wildcards: []

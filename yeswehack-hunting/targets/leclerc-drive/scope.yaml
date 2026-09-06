@@ -1,0 +1,10 @@
+# Leclerc Drive (Infomil) — PRIVATE program. 46 scopes on YesWeHack.
+# >>> FILL THIS IN from the program's Scopes tab before running recon. <<<
+# Private program: keep all scope + findings confidential.
+in_scope:
+  wildcards: []
+  hosts: []
+  urls: []
+out_of_scope:
+  hosts: []
+  wildcards: []
