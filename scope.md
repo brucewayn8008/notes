@@ -566,4 +566,20 @@ High
 
 https://hiddencoffeeroasters.com/
 
-https://cafeselmagnifico.com/
+https://cafeselmagnifico.com/\
+
+
+www.waves.com
+
+Name / Location	Tags	Known issues
+website
+*.unisys.com
+http://unisys.com/
+AWS
+Amazon S3
+jQuery
++3
+112
+website
+*.unifysquare.com
+http://unifysquare.com/
