@@ -263,5 +263,326 @@ https://drive.google.com/drive/folders/15vawQHJ4ueYNrby1nYHIl6S5ePO4glZH?usp=sha
 
 https://youtu.be/Appgq4OY_go?si=pedKcowyLwURfCtf
 
+
+
+# Saranik market research: WhatsApp groups (2026-10-11)
+
+**Question from the founder:** We sell web dev, app dev and AI agents but can't get clients. What else can we sell to these people, and how do we get paying clients through WhatsApp?
+
+**Short answer:** The groups we monitor are mostly full of sellers, not buyers. Requests for what we sell today (websites, apps, software, AI agents) are about 0.2% of posts, and website sellers outnumber website buyers 24 to 1. Most of the agent's effort went to DMing those sellers. The meetings it booked were mostly with sellers, and several of those calls never happened on our side. The money is in (a) things people *do* ask for, like AI and short-form video, creator sourcing and WhatsApp broadcast/automation, and (b) selling our group-monitoring agent itself to the people who live in these groups. The best fit there is real-estate brokers, and we already have a working agent for them.
+
+How to read this: every number below comes from counting the full export. Lines marked **[judgment]** are my recommendations, not data. Categories marked "~" were counted with keyword rules and could be off by about ±30%. Everything else was checked by reading the posts myself.
+
+---
+
+## 1. Data overview
+
+| | Saranik AI Agency | Pixel Social Real Estate |
+|---|---|---|
+| Group messages logged | 21,155 | 180 |
+| Unique posts after dedupe (same text in many groups = 1) | 8,178 | 108 |
+| Groups | 61 | 3 |
+| Date range | 2026-08-12 → 2026-10-11 | 2026-10-04 → 10-09 |
+| Lead records with messages | 406 (391 from groups, 15 direct) | 4 |
+
+**Coverage caveat.** Logging was effectively live only for **Aug 27–Sep 5, Sep 13–22 and Sep 29–30**. Sep 6–12 and Sep 23–28 have almost no rows. After Sep 30 the main number was logged out (an outage). Trends below compare Aug 27–Sep 5 (P1) with Sep 13–22 (P2), normalised per 1,000 unique posts.
+
+The "Yoyo" group / "Garv: Hi im looking for web dev" thread is an internal test, so I excluded it from the demand counts.
+
+**What the 8,178 unique posts are:**
+
+| Type | Unique posts | % | Messages | % |
+|---|---|---|---|---|
+| Ads, self-promotion, listings (supply) | 4,717 | 57.7% | 14,144 | 66.9% |
+| Noise (links, media, greetings, news, chatter) | 2,666 | 32.6% | 5,836 | 27.6% |
+| Other buying requests: property, goods, funding, freight ~ | 303 | 3.7% | 402 | 1.9% |
+| Employers hiring salaried staff ~ | 253 | 3.1% | 444 | 2.1% |
+| **Requests for digital/creative services (checked by hand)** | **170** | **2.1%** | **199** | **0.9%** |
+| Scam-pattern "receiver/mandate" finance and distributor recruiting ~ | 69 | 0.8% | 130 | 0.6% |
+
+Out of every 100 posts, about 2 ask for a digital or creative service. Only 0.2 ask for what Saranik currently lists.
+
+---
+
+## 2. Demand map: what people actually ask for
+
+The 170 hand-checked digital/creative requests, ranked. "Paid project" means freelance, contract or one-off work. Salaried jobs are counted separately.
+
+| # | Need | Unique posts | Of which salaried job | P1 → P2 per 1k posts | Trend | Where it shows up most |
+|---|---|---|---|---|---|---|
+| 1 | **Video editing / AI video / animation / shoots** | **57** | 3 | 8.5 → 5.5 | falling* | CREATORS – Hiring/Projects (18), Crazy Stupid Entrepreneurs (8), The Founders Gem (7), The Freelance Network (6) |
+| 2 | **Creator & influencer sourcing for brand campaigns** | **26** | 0 | 3.8 → 2.3 | falling* | PHY – Freelancers #2 (6), 💼 freelance and hiring (5), FoundU (4) |
+| 3 | Performance ads / SEO / lead gen / "promotion" | 23 | 3 | 1.9 → 3.7 | rising | Black Leo Ventures (4), The Freelance Network (3) |
+| 4 | Design, social-media management, content | 19 | 4 | 3.1 → 1.7 | falling* | PHY (4), FoundU (3) |
+| 5 | Grey growth: followers, reviews, YouTube subs, aged accounts | 14 | 0 | 1.4 → 2.0 | flat | CREATORS (3), Founders Gem (3) |
+| 6 | **AI agents / automation / bulk WhatsApp** | **11** | 0 | 1.2 → 1.4 | flat | 1Billion Networking (4), Crazy Stupid (3), Founders Gem (3) |
+| 7 | Dev hires, equity-only builds, "technical co-founder" | 9 | 5 | 1.2 → 0.6 | — | 1Billion (3), Black Leo (2) |
+| 8 | **Web / app / software build (paid project)** | **7** | 0 | 0.5 → 1.4 | rising (tiny base) | Founders Gem (2), others 1 each |
+| 9 | Data / lead lists | 4 | 0 | 0.9 → 0 | — | — |
+
+\* The P2 window had a different mix of groups online, so treat small moves as noise. The ranking itself is solid.
+
+Two more counts:
+- **41% of project requests (55 of 133) ask for portfolio, charges or rates in the post itself.** Buyers here pick vendors on samples and price, not on a discovery call.
+- 3 posts say "freelancers only, not agency".
+
+**Example quotes (phone numbers removed):**
+
+- **Video / AI video (57):**
+  - "Looking for an AI Video Editor who can create realistic AI models/avatars using HeyGen or similar tools. If you're interested, DM me your portfolio + previous work."
+  - "Looking for video editors - budget 500rs per video (AI generated)"
+  - "We need a video editor who Arrange camera raw video into cinematic video … Per reel upto 350-400"
+  - Also: "Urgently need a podcast editor. Long term work."
+- **Creators (26):**
+  - "*Brand:* Neeman's … *Nano:* 10K–30K | Budget per creator: ₹10K–20K *Micro:* … ₹40K–50K *Macro:* … ₹70K–80K"
+  - "Skincare Bulk Campaign * Creators: 500 * Budget: ₹3,000/creator"
+  - "Looking for 150 Nano Influencers for a monthly collaboration."
+- **Ads / SEO / lead gen (23):**
+  - "I need people who can run paid ads for a US focused service business. Please reply with 1. Your experience 2. Your price 3. Your past clients…"
+  - "Looking for meta ads experts who can work on our budget and monthly payout of 2k-3k."
+  - "We need support on SEO. If there is an Expert who can guide us?"
+- **Design / SMM (19):**
+  - "Looking for a Social Media & Website Management Professional … Social media strategy & content planning … Website Management"
+  - "URGENT: Graphic Designer Needed … for a spices brand. We need around 80–100 social media posts designed."
+- **AI / automation (11), mostly bulk WhatsApp:**
+  - "Is there anyone have whatsapp automation tool dm me on urgent basis"
+  - "Hey I want bulk WhatsApp msg sender anyone here !"
+  - "Does any body does AI agent ?"
+  - "Hi, anyone working on n8n, make here ? Pls dm"
+- **Web / app / software (7):**
+  - "I WANT WEBSITE & APP DEVELOPER,PL DM ME"
+  - "anyone who can build this kind of website👆🏾 [link to a sticker e-commerce store]"
+  - "Hey Any website developers or agencies? Dm"
+  - "looking for a freelancer who has experience with hospitality technology solutions … Cloud PMS • Channel Manager • Booking Engine"
+  - "I'm looking for professionals with hands-on experience in Zoho People"
+  - "do we've any square-space developer freelancer here?"
+  - "I am looking for an IT company with whom I can work in B2B. They will have client project we will execute that"
+
+**Non-digital demand (the other ~300 buying requests, counted ~):**
+
+| Need | Unique posts ~ | Notes |
+|---|---|---|
+| Real-estate requirement (buy/rent) | 179 | Mostly **broker-to-broker** posts ("Dear Associates… my client requires…"). Overall, 1,484 property-related posts carry **313 distinct phone numbers**: 124 post repeatedly (≥3 messages) and 37 are heavy posters (≥10). Main groups: Bangalore Realty Top Experts (816 property messages), All India property (319), AHMEDABAD Business Hub (290), SRN All India property (289), Kripa Matha estate (161), Gujarat Propti (86). |
+| Funding / investors / co-founder | 57 | Mixed with fund-raising service sellers |
+| Goods / commodity sourcing (scrap, metals, food) | 52 | Trade groups (Buyers & Sellers India, Leads & Automation) |
+| Logistics / freight | 17 | |
+
+This is the busiest group of **repeat business posters with an obvious workflow pain**. One broker posted about 30 requirements and 10 listings in a single burst, several times a week.
+
+---
+
+## 3. Supply and competition
+
+Unique *supply* posts by service, compared with buyer posts for the same service:
+
+| Service | Seller posts | Buyer (project) posts | Sellers per buyer |
+|---|---|---|---|
+| Websites / web dev | 166 | 7 | **24 : 1** |
+| Custom software / SaaS / MVP | 125 | (incl. above) | — |
+| Performance ads / SEO / lead gen | 130 | 20 | 6.5 : 1 |
+| Graphic / logo / brand design | 100 | ~15 | ~6.5 : 1 |
+| AI agents / chatbots / automation | 90 | 11 | **8 : 1** |
+| Video editing / AI video / reels | 88 | 54 | **1.6 : 1** |
+| Social-media management / content | 63 | (in design) | — |
+| Mobile apps | 38 | (in web) | — |
+| Creator sourcing | handful of agencies | 26 | buyers outnumber sellers |
+
+About 458 digital-service ads came from roughly 126 distinct phone numbers. In other words, a crowd of freelancers and micro-agencies is pitching the same small pool of buyers.
+
+**Price points in the groups (₹):**
+
+| Item | Sellers advertise | Buyers offer or accept |
+|---|---|---|
+| Website / landing page | "from ₹2,999", ₹3,500, ₹10,000; landing pages ₹2,999–8,999; mini-site ₹1,499 | no buyer price posted |
+| E-commerce site / + app | ₹17,999 / ₹34,999 fixed | buyer said our samples looked "very basics" |
+| AI agent / automation SaaS | ₹1,999 / 4,999 / 9,999 per month (Skriptal.ai); AI voice agent "low cost" | "no upfront… only if no investment" |
+| WhatsApp group promotion | ₹250 per 100 groups; ₹1,200–3,500 per month packages; 15,000 group links ₹500 | — |
+| Leads | website/SMM leads **₹70 per lead**; databases ₹399–12,999 | — |
+| Reels / video edit | ₹199–800 per reel; 10 reels ₹5,000; ₹300–400 per video | ₹350–500 per reel or AI video |
+| AI video ad (1 min) | ₹2,999; ₹2,000 per AI video under 1 min | HeyGen buyer: 3 videos, scripts ready |
+| Social-media management | ₹10,000 per month starter; ₹10k / 18k / 30k tiers | — |
+| Ads freelancer | — | ₹2–3k per month to ₹10k per month |
+| Creators | — | ₹1,500–80,000 per creator; campaigns of 150–500 creators |
+| Google reviews / followers | ₹50–70 per review; 5k followers ₹700–850 | — |
+
+**What this means for positioning [judgment]:**
+- "We build websites, apps and AI agents" is the most crowded pitch in these groups, and the going rate is ₹3–10k. A generic agency pitch can't win here on price or trust.
+- These buyers want three things in the first message: **samples, a price, and speed.**
+- We win only where supply is thin or where we have something nobody else in the group has. Our unusual asset is a **working agent that reads 60+ groups and finds and qualifies requests**.
+
+---
+
+## 4. Funnel diagnosis
+
+### 4.1 The numbers (group leads, Saranik)
+
+I classified each DMed lead's original group post by hand: a buyer of a service, a seller or self-promoter, a hiring or equity post, or other (property, sponsor, chit-chat).
+
+| Stage | Count |
+|---|---|
+| Group posts turned into leads | 391 |
+| Never messaged (no agent message) | 153 |
+| Drafts only, never sent | 50 |
+| **DMed** | **188** |
+| …of which **sellers / self-promoters** | **139 (74%)** |
+| …of which **actual buyers of a service** | **18 (10%)** |
+| …hiring / equity-only / co-founder posts | 16 |
+| …other (property, sponsor requests, chat) | 15 |
+| Agent messages sent to group leads | 784, of which **537 (68%) went to sellers** and 100 (13%) to buyers |
+| Genuine replies (excluding their own group broadcasts) | sellers 72/139 (52%), buyers 11/18 (61%) |
+| Meetings confirmed (all sources) | **15**: **11 sellers**, 1 sponsor-seeker, 1 referred partner, **2 buyers** |
+| Paying clients | 0 (founder's statement) |
+
+The reply rate isn't the problem. **The targeting and the follow-through are.**
+
+### 4.2 Why it doesn't convert, with real exchanges
+
+**1. We are talking to the wrong people.** Sellers reply because they want to sell to *us*, or they want something free.
+- After a booked "demo": "Currently we don't have any investment" … "Okah let's do this if it's for no investment!!"
+- "Is it for free" / "Free me hai na?" / "Nahi mai sirf free ka saman leta hu 😡" ("No, I only take free stuff")
+- One confirmed-meeting lead spent the whole thread re-posting "I'm an graphic designer… Anybody who are interested pls dm me", then quoted *us* his rates: "My charges for ai video per video under 1 min 2000 inr".
+- With a freelancer, the agent pretended Saranik was the buyer: "we're looking for help with short-form video editing… on upcoming client projects". It booked that as a "confirmed meeting".
+
+**2. Calls get booked, then we don't show up.** At least 5 of the 15 confirmed meetings have the prospect chasing us:
+- "Bhai aap time dete hai call ka us time PE aap available nahi hotte" ("You give a call time but are never available at that time")
+- "Hey gaurav can you join again" … two days later: "Join the meeting"
+- "I didn't get any invite"
+- Chrome-extension founder: "Hello?" … "Nahi toh mai kise or ko hire kar lungi" ("Otherwise I'll hire someone else") … "Pdf is not opening"
+- AI-avatar video buyer: the agent wrote "Calling you right now on WhatsApp." The human wrote "Sir im calling you in 10 Minutes / In metro rightnow", then clips arrived an hour later. Nothing after that.
+
+**3. We never give a price.** The price was asked at least 7 times and the agent dodged every time:
+- "What's the cost for setup" → "It depends on your setup and target groups… on a quick Google Meet."
+- "Can u let me know approx pricing" → "It is customized…"
+- A broker: "is this any paid version or subscription kinda to work with you?" → "Yes, it is a subscription tailored to your setup…". No number was given and there was no follow-up.
+- The only real quote went out by hand: ₹30,000 per month for a landing page plus SEO. It went to a founder who had said "We don't need website… We only need users… That's why I approach you for LinkedIn outreach." **We pitched what we sell, not what she asked for.**
+
+**4. We promise assets we never send.** Buyers asked for proof and didn't get it:
+- E-commerce buyer, asking 4 times: "I'd like to see some of your actual e-commerce projects before the meeting" → "sure… i'll send some links over now" → nothing → "when?" → eventually: "this are very basics".
+- "Answer the questions I have asked in the group please" (he had asked for experience, price and past clients) → "I have compiled our past US service campaign results…", which were never sent.
+- Videographer request → "Sending you their numbers and portfolio links in your direct message now." There were no such contacts.
+
+**5. We were slow on the best-fit lead.** 14 of 18 buyers got a first DM within 1 hour, which is good. But 3 waited more than 7 days in the draft queue.
+- "Looking for a Social Media & Website Management Professional" was posted Sep 1. The first sent DM went out Sep 30. No reply.
+- "Need someone who can create AI Videos for reels" was posted Aug 31 and first contacted Sep 30. Reply: "Not a requirement."
+
+**6. Our catalogue excludes the biggest demand.** The agent config's `not_offered` list contains "AI video generation / AI video editing / reels". The lead filter's `OFF_TARGET_PATTERNS` rejects `video edit`, `ai video`, `ugc`, `influencer`, `logo`, `graphic`. Those are categories 1, 2 and 4 of the demand map. The one confirmed real buyer (HeyGen avatars) came through only because the agent improvised.
+
+**7. Our proof isn't credible.** The config's proof points claim "captured 120+ qualified leads for us so far". The data shows 18 genuine buyer DMs and no clients. A prospect who asks "what have you built?" gets three generic `saranik.ai/work/...` portfolio links, while the brand everywhere else is `saranik.in`. **[judgment]** Check that those links load and look real.
+
+---
+
+## 5. Opportunities: productized offers
+
+Ranked by expected paying clients within 30 days **[judgment]**. The evidence column is data.
+
+| # | Offer | Who buys | Evidence | Price anchor (₹) | Delivery |
+|---|---|---|---|---|---|
+| 1 | **"Requirement Matcher" for real-estate brokers.** Our agent watches their groups, matches buyer requirements to listings across groups, and pings the broker on WhatsApp within minutes. | Brokers in Bangalore, Gujarat, Chhattisgarh and MP who post daily | 179 requirement posts; 1,484 property posts from 313 distinct numbers, 37 posting ≥10 times; brokers replied to our pitch: "Share me full details", "Go-ahead", "is this any paid version or subscription", "Call me tomorrow morning" | ₹2,999–4,999 per month per broker after a 7-day free pilot; brokers already buy "Property Buyers Database" lists and paid group ads | **Easy.** The real-estate classifier and `real_estate` mode already exist (Pixel Social workspace). Needs a per-broker digest or alert. |
+| 2 | **AI avatar and AI video ads, plus reels packs (managed; editing subcontracted to editors in the same groups)** | D2C brands, real-estate projects, coaches, agencies | 57 video requests, the largest cluster; ~12 explicitly AI-video (HeyGen avatars, AI reels, AI election videos, AI product insertion); the HeyGen buyer had scripts ready and confirmed a call; the Kolkata agency wanted "AI Video & AI Content Production" partners | Single AI ad ₹2,499–3,499; 4-video pack ₹8,999; reels ₹400–600 each (market ₹199–800) | **Medium.** Buy editing at ₹300–400 per video from the 88 editors advertising in these groups. Saranik does the scripting, AI avatar work, QC and delivery. |
+| 3 | **Verified buyer-lead feed for freelancers and small agencies** (sell the 2% we filter out) | The 139 sellers we kept DMing: web devs, editors, designers, ads freelancers | Sellers replied at 52% and took 11 of 15 meetings; asks like "Ok can you find people? I'll share 50%", "How does it work and cost to work it?"; leads already trade at **₹70 per lead**; group lists sell for ₹399–1,700 | ₹999 per month (one category, real-time forwards) or ₹99–149 per verified lead | **Easy.** The classifier already finds the 133 project asks. Low ticket and high volume. Doesn't conflict with us because it's mostly categories we don't serve. |
+| 4 | **WhatsApp Business API setup + broadcast + AI auto-reply** (official API, opt-in lists) | Shops, D2C brands, institutes asking for "bulk WhatsApp" or "automation tool" | 8 of 11 AI/automation asks are bulk WhatsApp; sellers charge ₹1,200–3,500 per month for group promotion | Setup ₹4,999 + ₹1,999 per month; with AI replies ₹4,999 per month | **Easy–medium.** This is our core tech. Refuse grey bulk sending. |
+| 5 | **Fixed-price website with published price and 2 real samples** ("Live in 7 days") | Founders posting "need website/app" (7 posts), the e-commerce lookalike buyer, bizloop.in | 7 paid web posts in ~26 logged days (~2 per week); every buyer asked for samples or price first | Business site ₹14,999; e-commerce ₹29,999 (market ₹3k–35k; don't fight the ₹2,999 floor) | **Easy**, but low volume. |
+| 6 | **Creator sourcing for brand campaigns**: an AI agent that shortlists creators by niche, followers and city and handles barter or payment coordination | D2C brands and influencer agencies | 26 posts; budgets ₹1,500–80,000 per creator; campaigns of 150–500 creators; few competitors advertise this | 10–15% of creator budget, or ₹299 per vetted creator | **Medium–hard.** Needs a creator database. |
+| 7 | **White-label dev and AI-video partner for agencies** | Agencies posting overflow needs | "looking for an IT company… they will have client project we will execute"; "CREATIVE AGENCIES & PRODUCTION PARTNERS REQUIRED"; agencies hiring freelance ads or video people (MarkTale, Teztecch) | Per-project cost plus 20–30% | **Medium.** Seek-projects mode already does this. Keep it, but it's low volume. |
+| 8 | Performance ads + landing page (D2C / local) | Small businesses | 23 posts, but budgets of ₹2–10k per month and 6.5 sellers per buyer | ₹9,999 per month minimum | **Low priority**: a crowded, low-budget market |
+
+Don't sell: grey growth (followers, reviews, aged accounts), data lists, or "receiver/mandate" finance. Those posts are 1–2% of traffic and carry legal and ban risk.
+
+---
+
+## 6. WhatsApp go-to-market plan
+
+### 6.1 Groups: keep, move, drop
+
+Project-demand density by group (project asks ÷ messages):
+
+| Action | Groups | Why |
+|---|---|---|
+| **Keep and prioritise** (agency offers 2–5 and 7) | CREATORS – Hiring/Projects (24 asks / 117 msgs), The Founders Gem (14/470), PHY – Freelancers #2 (14/181), Crazy Stupid Entrepreneurs (12/292), FoundU – Freelancers (12/179), The Freelance Network (11/177), 1Billion Networking (9/242), 💼 freelance and hiring (8/114), Black Leo Ventures (7/217) | 105 of the 133 unique project asks (79%) appear in these 9 groups, which carry 9% of message volume |
+| **Move to the broker track** (offer 1) | Bangalore Realty Top Experts, Kripa Matha estate, SRN All India property, All India property sale…, 🇦🇱🇱 Gujarat Propti, Rk property Ujjain, AHMEDABAD Business Hub | 0 digital asks, but this is where the brokers are |
+| **Drop / mute** (0 project asks, high volume) | Bestdealkaro (1,555 msgs), World coding group (2,193 msgs, 64 unique), Advertisement group (1,953), OLX HUB ZD, Virus Data Hack, Mehsana Gujarat jahirat, UTTAR PRADESH MARKETING, both ગુજરાત જાહેરાત groups, Busines Meet.Adv.18, Apna News, Business group India BGI, ⭐ South India Buy & Sell, PUNE – PCMC Sales force, All સૌરાષ્ટ્ર FMCG | Pure ads and listings. They burn LLM screening and give us ban exposure for nothing. |
+| **Add [judgment]** | 10–15 more groups with "hiring / projects / creators / D2C founders" in the name. Real-estate broker groups in 2–3 more cities (Pune, Hyderabad, NCR). | The CREATORS-type group has 20% demand density, versus ~0.1% in "Advertisement" groups |
+
+### 6.2 What the agent should DM: first touch
+
+Buyers asked for **samples + price + availability** in 41% of posts. Answer those three in message 1 and ask one question.
+
+**Video / AI video request:**
+> Hi {name}, saw your post in CREATORS for AI avatar ads. We make HeyGen-style avatar videos from your script: 2 samples here → [link]. 60–90s ad from ₹2,999, delivered in 48h. Is the avatar a team member or a stock presenter?
+
+**Web request with a reference site:**
+> Hi {name}, saw your post in {group}. We build stores like the one you shared: [sample 1], [sample 2]. Business site from ₹14,999, e-commerce from ₹29,999, live in 7–10 days. Is this for an existing business or a new brand?
+
+**Broker posting requirements (broker track):**
+> Namaste {name} ji, you posted 30+ requirements today across 3 groups. Our system reads 60+ property groups and alerts you on WhatsApp the moment a matching plot or flat is posted: free for 7 days, then ₹2,999/month. Shall I start with your Banashankari 30×40 requirements?
+
+### 6.3 Group posts (max 1 per group per 48h; the existing `promo_interval_hours: 48` is right)
+
+**Freelancer and founder groups:**
+> 🎬 AI avatar & AI video ads: send a script, get a 60s ad in 48h. Samples: [link]. From ₹2,999. Agencies: white-label rates available. DM "VIDEO".
+
+**Broker groups:**
+> For brokers: tired of scrolling 20 groups for matching inventory? We auto-match your client requirements with listings posted across 60+ property groups and alert you instantly. 7-day free trial. DM "MATCH".
+
+**Freelancer groups (lead feed):**
+> Freelancers: we filter 60+ WhatsApp groups and forward only real client requests (video, design, web, ads) to you within minutes. ₹999/month per category, first 3 days free. DM "LEADS".
+
+### 6.4 Qualification and agent changes (concrete)
+
+Config, both Saranik workspaces (`agent_config`):
+- Set `pricing_note` to real numbers, e.g. "Business website from ₹14,999; e-commerce from ₹29,999; WhatsApp AI agent setup ₹4,999 + ₹1,999/month; AI video ads from ₹2,999; broker requirement matcher ₹2,999/month after 7-day trial". The prompt already supports this (`pricing_rule`). It's empty today, which is why every price question gets dodged.
+- Set `booking_link` (Cal.com or Google appointment page linked to Garv's calendar). This fixes "I didn't get any invite" and double-booking.
+- If offer 2 is adopted: remove "AI video generation / AI video editing / reels" from `not_offered` and add a "Video & AI video" service playbook.
+- Add a "Broker requirement matcher" playbook for broker-track groups.
+- Replace the proof point "captured 120+ qualified leads" with verifiable ones: live demo, sample links, a named pilot when you have one.
+- Fix `portfolio`: per-service sample links that actually load (currently 3 generic `saranik.ai/work/*` pages).
+- `daily_message_limit` is **1000** on both Saranik numbers. Cap cold first-touch DMs at ~25–40 per number per day (see 6.6).
+
+Lead filter (`app/services/lead_classifier.py`) and DM path:
+- Don't auto-DM when the LLM screen returns `buyer_type == "seller"` or the self-promo prefilter fires. Today 74% of DMs go to sellers. If you want offer 3, send sellers one fixed lead-feed message from a separate, capped template, not the sales conversation.
+- Remove `video edit`, `ai video`, `ugc`, `influencer`, `logo`, `graphic` from `OFF_TARGET_PATTERNS` only for the services you decide to sell.
+- **Freshness rule:** if a first DM can't go out within ~2h of the post, drop it. Don't release week-old drafts (3 of 18 buyers were contacted after 7+ days).
+
+Prompt (`run_pipeline` / `TURN_PROFILES["first_touch"]`):
+- When the post asks for portfolio, charges, rates, experience or past clients (41% of asks), the first reply must include one matching sample link and the price range from `pricing_note`. No discovery question first.
+- If the post lists explicit questions, answer them in order. This is what the US paid-ads buyer demanded.
+
+### 6.5 Follow-up and human handoff
+
+- Agent cadence for people who replied: answer instantly. Send one nudge at +24h and one at +72h with something new (a sample or a price), then stop. Non-repliers are already excluded since the Oct 10 fix.
+- **Human SLA [judgment, but the failures above are data]:** when someone says "call me", "call?" or "now?", the owner gets an alert and calls within 30 minutes during working hours. Otherwise the agent offers the booking link, never "calling you right away".
+- Before any "team will send X" promise, have the asset ready: 3 sample links per service and a one-page price sheet. The agent should be able to send those itself. The Oct 10 fix stopped it from *claiming* to send things; nobody then sends them.
+
+### 6.6 Anti-ban limits [judgment]
+
+- ≤25–40 cold first-touch DMs per number per day. Keep a ≥30% reply ratio; drop templates that fall below.
+- 1 first DM per person per post, and never DM the same person from two numbers.
+- No DMs in a group during your first 7 days in it. No more than 1 group post per 48h per group.
+- Personalise from the post (the prompt already does). Never send identical bodies to more than 5 people.
+- Keep the real-estate and agency tracks on **separate numbers**, so a ban on one doesn't kill both.
+
+---
+
+## 7. Top 5 actions this week, ranked by expected paying clients [judgment]
+
+| # | Action | Expected result |
+|---|---|---|
+| 1 | **Re-contact the warm buyers from the data personally (Garv, not the agent), with samples and a price in the first message.** AI-avatar video buyer (The Freelance Network), Sanjay / bizloop.in (website + app), e-commerce lookalike buyer (direct DM), Chrome-extension founder (wants users, so offer LinkedIn/WhatsApp outreach, not a website), Zoho People HR lead, Hub4Machines (call booked Oct 9: confirm it happened), brokers Vinay and Paramesh (asked about subscription / "call me tomorrow"). | 1–2 paying clients; these people already engaged |
+| 2 | **Launch the broker Requirement Matcher pilot.** Reuse the real-estate classifier, send a daily or instant WhatsApp digest, and offer a 7-day free pilot to the ~37 heavy-posting brokers through one post per broker group (not mass DMs). Convert at ₹2,999 per month. | 2–4 paying brokers within 2–3 weeks |
+| 3 | **Add AI video / AI avatar ads as a service.** Line up 2–3 editors from the groups at ₹300–400 per edit, make 2 samples, and put the price in `pricing_note`. Respond to video asks within 15 minutes with sample + price. | 1–3 small jobs per week (₹2.5–9k each) |
+| 4 | **Stop spending the agent on sellers and prune groups.** Block seller DMs, drop the ~15 zero-demand groups, and add 10 "hiring/projects/creators" groups. Set the freshness rule and the 25–40 per day cap. | No direct revenue; frees ~68% of messages for buyers and cuts ban risk |
+| 5 | **Fix the follow-through basics:** `booking_link`, `pricing_note`, working per-service sample links, honest proof points, and a 30-minute owner call SLA. | Turns the existing ~2 buyer meetings per month into closes, instead of "Join the meeting… Hello?" |
+
+---
+
+### Method notes
+- **Dedupe:** lowercase text, strip URLs, digits and punctuation, key on the first 150 characters. 21,155 messages → 8,178 unique posts.
+- **Digital demand (170):** read by hand, starting from keyword and intent shortlists (~1,400 candidate posts reviewed). Non-digital categories use keyword rules (~).
+- **Funnel:** "genuine reply" excludes the lead's own group broadcasts that were appended to the conversation (long, starred or emoji-heavy, link, or duplicate posts). Buyer / seller / other was assigned by reading each of the 188 DMed leads' original posts.
+- Scripts and intermediate files are in `/tmp/claude-1003/-home-adminhermes-whatsapp-agent/12242cbd-d0c0-4bac-9318-7063ffbccac4/scratchpad/market/`.
+
+
 https://youtu.be/6Hm-mUNYfz8?si=QMeqSvTQ2dM1EQcd
+
+https://drive.google.com/drive/folders/1SahpSh2l8lRSwmOdqTbYXIJLMghroBSI?usp=sharing
 
