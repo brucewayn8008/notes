@@ -1,3 +1,6 @@
+
+
+https://docs.google.com/document/d/e/2PACX-1vRBNNybfAvgbWpmegX7ADFM3qnuBBMCXhq4Fc7C2ccNdcQ_5AFspfqWL1RWXaVIJ9YIm0jLduf2tg5i/pub
 The client is a **working IT professional in the development domain** with experience in **.NET** and is now preparing for the **Claude Certified Architect Foundations (CCA-F) certification**. He has approximately **4050 days** to prepare and wants to clear the certification within this timeframe. Assign an experienced **CCA-F certification trainer** with strong knowledge of the exam structure, syllabus, assessment areas, and practical concepts. The trainer should create a **clear day-by-day preparation plan**, explain key concepts, provide hands-on practice, mock tests, sample questions, and regular assessments, while leveraging the clients existing development background. The priority is a **structured, exam-focused preparation strategy** to maximize his chances of clearing the certification on the first attempt.
 
 
