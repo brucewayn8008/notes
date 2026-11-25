@@ -12,7 +12,7 @@ https://kdbmyprd.temenoscloud.com/mfconsole
 API	
 5
 Medium
-
+https://github.com/pengsonal/jailbreaks
 https://kdbmyprd.temenoscloud.com/services/data/v1/*
 API	
 10
