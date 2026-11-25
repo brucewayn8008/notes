@@ -2,7 +2,7 @@ https://play.google.com/store/apps/details?id=com.kdb.kafdigitalbanking
 Mobile application Android	
 0
 High
-
+https://github.com/BaaRai/ARTEX
 https://apps.apple.com/us/app/kaf/id6737322503
 Mobile application IOS	
 0
